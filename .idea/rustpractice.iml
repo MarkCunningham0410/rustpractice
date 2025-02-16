@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/1 - Getting Started/hello_cargo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2 - Programming a Guessing Game/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3 - Common Programming Concepts/variables_and_mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Understanding Ownership/what_is_ownership/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1 - Getting Started/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/2 - Programming a Guessing Game/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/3 - Common Programming Concepts/variables_and_mutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/4 - Understanding Ownership/what_is_ownership/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
